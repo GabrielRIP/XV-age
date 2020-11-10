@@ -1,2 +1,2 @@
 # XV-age
-es para ayudar a mi sobrina a mantener de recuerdo su fiesta de los 15.
+es para ayudar a mi sobrina con su fiesta de 15 años, para que mantenga sus recuerdos.
